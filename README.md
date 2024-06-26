@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Gabriel
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" width="50%" height="50%" />
+  <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" width="30%" height="30%" />
 </div>
 
 ## 🚀 Web Developer | Modern Tech Enthusiast | Job Seeker
