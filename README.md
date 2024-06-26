@@ -8,6 +8,12 @@
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
+### 📊 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielOJT&theme=radical" alt="GitHub Contribution Graph" />
+</div>
+
 ### 🌟 About Me
 
 I'm a versatile web developer with expertise in both modern frameworks and traditional technologies. From crafting custom solutions to leveraging powerful website builders, I bring ideas to life in the digital realm.
@@ -58,12 +64,6 @@ I'm a versatile web developer with expertise in both modern frameworks and tradi
 - 🎨 Crafting micro-interactions for delightful UX
 - 🛒 Innovating in e-commerce solutions
 - 🏗️ Building scalable and efficient web applications
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielOJT&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ### 🌈 Fun Fact
 
